@@ -1,7 +1,9 @@
 # Introduction-to-DL-PyTorch
 动手学深度学习（PyTorch）
 
-[!Introduction-to-DL-PyTorch](./Introduction-to-DL-PyTorch)
+<div align=center>
+<img width="500" src="img/Introduction-to-DL-PyTorch.png" alt="Introduction-to-DL-PyTorch"/>
+</div>
 
 伯禹平台视频课程：
 https://www.boyuai.com/elites/course/cZu18YmweLv10OeV
