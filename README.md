@@ -1,5 +1,5 @@
 # Introduction-to-DL-PyTorch
-动手学深度学习（PyTorch）
+**动手学深度学习（PyTorch）**
 
 <div align=center>
 <img width="500" src="./Introduction-to-DL-PyTorch.png" alt="Introduction-to-DL-PyTorch"/>
@@ -12,7 +12,7 @@ K-Lab动手实践：
 https://www.kesci.com/org/boyuai/workspace/project
 
 ## Homework1 
-- Task01：线性回归；Softmax与分类模型、多层感知机（1天）
+- Task01：线性回归；Softmax与分类模型；多层感知机（1天）
 - Task02：文本预处理；语言模型；循环神经网络基础（1天）
 
 ## Homework2 
