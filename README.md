@@ -2,7 +2,7 @@
 动手学深度学习（PyTorch）
 
 <div align=center>
-<img width="500" src="img/Introduction-to-DL-PyTorch.png" alt="Introduction-to-DL-PyTorch"/>
+<img width="500" src="./Introduction-to-DL-PyTorch.png" alt="Introduction-to-DL-PyTorch"/>
 </div>
 
 伯禹平台视频课程：
